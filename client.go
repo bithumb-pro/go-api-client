@@ -13,9 +13,7 @@ import (
 	"time"
 )
 
-//var baseUrl = "https://global-openapi.dcex.world/openapi/v1"
-
-var baseUrl = "https://sit-global-openapi.dcex.world/openapi/v1"
+var baseUrl = "https://global-openapi.dcex.world/openapi/v1"
 
 var serverTimeUrl = baseUrl + "/serverTime"
 
