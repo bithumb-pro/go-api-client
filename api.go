@@ -40,13 +40,13 @@ func main() {
 
 	api := c.getApi()
 
-	//testNormal(api)
+	testNormal(api)
 
 	//testPlaceOrder(api)
 
 	//testCancelOrder(api)
 
-	testAssets(api)
+	//testAssets(api)
 
 
 }
